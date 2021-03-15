@@ -1,0 +1,17 @@
+{
+  "python.pythonPath": "C:\\Users\\shion\\anaconda3\\python.exe",
+  "terminal.integrated.shellArgs.windows": [
+    "-ExecutionPolicy",
+    "ByPass",
+    "-NoExit",
+    "-Command",
+    "& 'C:\\Users\\shion\\anaconda3\\shell\\condabin\\conda-hook.ps1'; conda activate 'C:\\Users\\shion\\anaconda3'"
+  ],
+  "[python]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  },
+  "python.autoComplete.extraPaths": [
+    "C:\\users\\shion\\anaconda3\\lib\\site-packages"
+  ]
+}
